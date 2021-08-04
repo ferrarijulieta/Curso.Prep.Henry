@@ -1,0 +1,8 @@
+02-JS-I
+//En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: son elementos a los cuales se les asigna un nombre representativo, y un valor. Luego se pueden usar estas variables llamandolas por su nombre.
+Strings: son cadenas de caracteres.
+Funciones (argumentos, return): las funciones son objetos de programaciòn, se utilizan para una mejor organizaciòn del algoritmo. Su anatomia se basa en el comando function seguido de el nombre de la funcion y argumentos en caso de ser necesarios. Para devolver un valor al cuerpo global del algoritmo debemos usar return.
+Declaraciones if: se utilizan para verificar si se cumplen ciertas condiciones o no , y en base al resultado de esa verificaciòn ejecutan una parte del còdigo u otra.
+Valores booleanos (true, false): son los unicos dos valores que pueden tomar las evaluaciones de condiciones.
